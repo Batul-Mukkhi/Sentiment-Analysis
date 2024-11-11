@@ -37,6 +37,6 @@ Make sure you have the following dependencies installed:
 1. Download the IMDb movie review dataset from the provided link.
 2. Extract the dataset and locate the train and test folders.
 3. Update the paths to the train and test folders in the code, as specified in the comments.
-4. Run the `model.py` script.
+4. Run the `sentiment_analysis.py` script.
 
 
