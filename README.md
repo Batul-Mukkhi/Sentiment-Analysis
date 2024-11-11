@@ -23,5 +23,20 @@ For this project, we use a dataset of movie reviews that are labeled as positive
 
 Ensure the dataset has two columns: `text` (review) and `label` (sentiment).
 
-## Project Structure
+## Prerequisites
+
+Make sure you have the following dependencies installed:
+
+- Python (version 3.6 or higher)
+- TensorFlow (version 2.0 or higher)
+- NumPy
+- pandas
+- matplotlib
+## Usage
+
+1. Download the IMDb movie review dataset from the provided link.
+2. Extract the dataset and locate the train and test folders.
+3. Update the paths to the train and test folders in the code, as specified in the comments.
+4. Run the `model.py` script.
+
 
